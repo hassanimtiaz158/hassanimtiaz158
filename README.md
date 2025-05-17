@@ -17,7 +17,7 @@
 📍 **Location:** Lahore, Pakistan  
 📧 **Email:** [hassanimtiaz158@gmail.com](mailto:hassanimtiaz158@gmail.com)  
 🔗 **LinkedIn:** [linkedin.com/in/hassan-ali-61580629a](https://www.linkedin.com/in/hassan-ali-61580629a)  
-🐍 **GitHub:** [Hasan-Ali158](https://github.com/Hasan-Ali158)  
+🐍 **GitHub:** [hassanimtiaz158](https://github.com/hassanimtiaz158)  
 ⚡ **Fun Fact:** I love exploring **AI, Finance, and Web3 technologies!**  
 
 ---
