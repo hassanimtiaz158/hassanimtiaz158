@@ -46,11 +46,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hassanimtiaz158&theme=cobalt&hide_border=true" alt="GitHub Streak" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hassanimtiaz158&theme=onedark&hide_border=true" alt="GitHub Streak" width="400"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hassanimtiaz158&show_icons=true&theme=cobalt&hide_border=true" alt="GitHub Stats" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassanimtiaz158&layout=compact&theme=cobalt&hide_border=true" alt="Top Languages" width="300"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hassanimtiaz158&show_icons=true&theme=onedark&hide_border=true" alt="GitHub Stats" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassanimtiaz158&layout=compact&theme=onedark&hide_border=true" alt="Top Languages" width="300"/>
 </p>
 
 ---
