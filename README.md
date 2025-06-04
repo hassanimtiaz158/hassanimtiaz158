@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FF99&center=true&vCenter=true&width=500&lines=Hi,+I'm+Hasan+Ali!;Data+Scientist+🚀;Blockchain+Innovator+🔗;Python+Wizard+🐍" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FF99¢er=true&vCenter=true&width=500&lines=Hi,+I'm+Hasan+Ali!;Data+Scientist+🚀;Blockchain+Innovator+🔗;Python+Wizard+🐍" alt="Typing SVG" />
 </p>
 
 <h3 align="center">Turning Data into Insights | Building Decentralized Solutions | Coding the Future</h3>
@@ -46,11 +46,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hassanimtiaz158&theme=merko&hide_border=true" alt="GitHub Streak" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hassanimtiaz158&theme=cobalt&hide_border=true" alt="GitHub Streak" width="400"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hassanimtiaz158&show_icons=true&theme=merko&hide_border=true" alt="GitHub Stats" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassanimtiaz158&layout=compact&theme=merko&hide_border=true" alt="Top Languages" width="300"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hassanimtiaz158&show_icons=true&theme=cobalt&hide_border=true" alt="GitHub Stats" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassanimtiaz158&layout=compact&theme=cobalt&hide_border=true" alt="Top Languages" width="300"/>
 </p>
 
 ---
