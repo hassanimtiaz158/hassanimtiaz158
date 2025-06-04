@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FF99¢er=true&vCenter=true&width=500&lines=Hi,+I'm+Hasan+Ali!;Data+Scientist+🚀;Blockchain+Innovator+🔗;Python+Wizard+🐍" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FF99¢er=true&vCenter=true&width=500&lines=Hi,+I'm+Hasan+Ali!;Data+Scientist+;Blockchain+Innovator+;Python+Wizard+" alt="Typing SVG" />
 </p>
 
 <h3 align="center">Turning Data into Insights | Building Decentralized Solutions | Coding the Future</h3>
@@ -10,20 +10,20 @@
 
 ---
 
-## 🌟 About Me
+##  About Me
 
-👨‍💻 **I'm Hasan Ali**, a passionate **Data Scientist** and **Blockchain Enthusiast** from **Lahore, Pakistan**. I thrive on transforming raw data into actionable insights, crafting AI-powered solutions, and exploring the limitless possibilities of Web3 and Blockchain technologies.
+ **I'm Hasan Ali**, a passionate **Data Scientist** and **Blockchain Enthusiast** from **Lahore, Pakistan**. I thrive on transforming raw data into actionable insights, crafting AI-powered solutions, and exploring the limitless possibilities of Web3 and Blockchain technologies.
 
-- 🎓 **Background**: Self-taught Data Science & Blockchain expert  
-- 📍 **Location**: Lahore, Pakistan  
-- 📧 **Email**: [hassanimtiaz158@gmail.com](mailto:hassanimtiaz158@gmail.com)  
-- 🔗 **LinkedIn**: [Hassan Ali](https://www.linkedin.com/in/hassan-ali-61580629a)  
-- 🐙 **GitHub**: [hassanimtiaz158](https://github.com/hassanimtiaz158)  
-- ⚡ **Fun Fact**: I’m obsessed with merging **AI, Finance, and Blockchain** to build the future!  
+-  **Background**: Self-taught Data Science & Blockchain expert  
+-  **Location**: Lahore, Pakistan  
+-  **Email**: [hassanimtiaz158@gmail.com](mailto:hassanimtiaz158@gmail.com)  
+-  **LinkedIn**: [Hassan Ali](https://www.linkedin.com/in/hassan-ali-61580629a)  
+-  **GitHub**: [hassanimtiaz158](https://github.com/hassanimtiaz158)  
+-  **Fun Fact**: I’m obsessed with merging **AI, Finance, and Blockchain** to build the future!  
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
@@ -43,7 +43,7 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hassanimtiaz158&theme=onedark&hide_border=true" alt="GitHub Streak" width="400"/>
@@ -55,7 +55,7 @@
 
 ---
 
-## 🏆 Certifications
+##  Certifications
 
 - ✅ **Microsoft - Foundations of Python**  
 - ✅ **IBM - Tools for Data Science**  
@@ -65,40 +65,40 @@
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 📈 **Stack Overflow Developer Survey Analysis 2024**  
+###  **Stack Overflow Developer Survey Analysis 2024**  
 🔹 Analyzed developer trends using **Python, Pandas, and Seaborn**.  
 🔹 Delivered **interactive visualizations** and statistical insights.  
-🔗 [View Project](https://github.com/hassanimtiaz158/stack-overflow-analysis)  
+ [View Project](https://github.com/hassanimtiaz158/stack-overflow-analysis)  
 
-### 💸 **Budget Management System**  
+###  **Budget Management System**  
 🔹 Built a **Python-based financial tracker** with **SQL** and **Tkinter GUI**.  
 🔹 Streamlined personal finance with real-time **income and expense tracking**.  
-🔗 [View Project](https://github.com/hassanimtiaz158/budget-management-system)  
+ [View Project](https://github.com/hassanimtiaz158/budget-management-system)  
 
-### 🔒 **Blockchain Voting System**  
+###  **Blockchain Voting System**  
 🔹 Developed a **decentralized voting platform** using **Solidity** and **Ethereum**.  
 🔹 Ensured **secure, transparent, and immutable** election results.  
-🔗 [View Project](https://github.com/hassanimtiaz158/blockchain-voting-system)  
+ [View Project](https://github.com/hassanimtiaz158/blockchain-voting-system)  
 
-### 🧠 **AI-Powered Sentiment Analysis Dashboard**  
+###  **AI-Powered Sentiment Analysis Dashboard**  
 🔹 Created a **real-time sentiment analysis tool** using **Python, NLTK, and Flask**.  
 🔹 Integrated **Twitter API** for live social media sentiment tracking.  
-🔗 [View Project](https://github.com/hassanimtiaz158/sentiment-analysis-dashboard)  
+ [View Project](https://github.com/hassanimtiaz158/sentiment-analysis-dashboard)  
 
 ---
 
-## 🎯 What Drives Me
+##  What Drives Me
 
-- 📊 **Data Science & Machine Learning**: Uncovering hidden patterns in data.  
-- 🔗 **Blockchain & Web3**: Building decentralized, trustless systems.  
-- 🏆 **Competitive Programming**: Solving complex problems with code.  
-- 💡 **AI Innovation**: Creating real-world solutions with AI and automation.  
+-  **Data Science & Machine Learning**: Uncovering hidden patterns in data.  
+-  **Blockchain & Web3**: Building decentralized, trustless systems.  
+-  **Competitive Programming**: Solving complex problems with code.  
+-  **AI Innovation**: Creating real-world solutions with AI and automation.  
 
 ---
 
-## 📬 Let's Connect!
+##  Let's Connect!
 
 <p align="center">
   <a href="mailto:hassanimtiaz158@gmail.com"><img src="https://img.shields.io/badge/Email-hassanimtiaz158@gmail.com-red?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
@@ -109,5 +109,5 @@
 ---
 
 <p align="center">
-  <b>Let’s build the future together! 🚀</b>
+  <b>Let’s build the future together! </b>
 </p>
