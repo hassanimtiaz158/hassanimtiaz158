@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FF99¢er=true&vCenter=true&width=500&lines=Hi,+I'm+Hasan+Ali!;Data+Scientist+;Blockchain+Innovator+;Python+Wizard+" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FF99¢er=true&vCenter=true&width=500&lines=Hi,+I'm+Hasan+Ali!;Data+Scientist+;Blockchain+Innovator+;Python+" alt="Typing SVG" />
 </p>
 
 <h3 align="center">Turning Data into Insights | Building Decentralized Solutions | Coding the Future</h3>
