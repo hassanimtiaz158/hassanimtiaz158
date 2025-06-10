@@ -3,7 +3,10 @@
 </p>
 
 <h3 align="center">Turning Data into Insights | Building Decentralized Solutions | Coding the Future</h3>
----
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" height="250" alt="Coding GIF"/>
+</p>
 
 ##  About Me
 
