@@ -65,25 +65,32 @@
 
 ##  Featured Projects
 
+###  **Cryptocurrency Price Predictor**  
+🔹 Built a **Streamlit web application** for real-time **crypto price prediction**.  
+🔹 Used **XGBoost regression** to forecast the **next-day closing price** for coins like **Bitcoin, Ethereum, Aave**, etc.  
+🔹 Features include **EDA dashboard, technical indicators (RSI, MA, Bollinger Bands)**, **lag features**, and **temporal encodings**.  
+🔹 Achieved directional accuracy and visualized results with **interactive plots**.  
+[View Project](https://github.com/hassanimtiaz158/crypto-price-predictor)
+
 ###  **Stack Overflow Developer Survey Analysis 2024**  
 🔹 Analyzed developer trends using **Python, Pandas, and Seaborn**.  
 🔹 Delivered **interactive visualizations** and statistical insights.  
- [View Project](https://github.com/hassanimtiaz158/stack-overflow-analysis)  
+[View Project](https://github.com/hassanimtiaz158/stack-overflow-analysis)  
 
 ###  **Budget Management System**  
 🔹 Built a **Python-based financial tracker** with **SQL** and **Tkinter GUI**.  
 🔹 Streamlined personal finance with real-time **income and expense tracking**.  
- [View Project](https://github.com/hassanimtiaz158/budget-management-system)  
+[View Project](https://github.com/hassanimtiaz158/budget-management-system)  
 
 ###  **Blockchain Voting System**  
 🔹 Developed a **decentralized voting platform** using **Solidity** and **Ethereum**.  
 🔹 Ensured **secure, transparent, and immutable** election results.  
- [View Project](https://github.com/hassanimtiaz158/blockchain-voting-system)  
+[View Project](https://github.com/hassanimtiaz158/blockchain-voting-system)  
 
 ###  **AI-Powered Sentiment Analysis Dashboard**  
 🔹 Created a **real-time sentiment analysis tool** using **Python, NLTK, and Flask**.  
 🔹 Integrated **Twitter API** for live social media sentiment tracking.  
- [View Project](https://github.com/hassanimtiaz158/sentiment-analysis-dashboard)  
+[View Project](https://github.com/hassanimtiaz158/sentiment-analysis-dashboard)  
 
 ---
 
