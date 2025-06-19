@@ -44,9 +44,6 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hassanimtiaz158&theme=onedark&hide_border=true" />
-</p>
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hassanimtiaz158&show_icons=true&theme=onedark&hide_border=true" width="400"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassanimtiaz158&layout=compact&theme=onedark&hide_border=true" width="300"/>
 </p>
@@ -71,7 +68,7 @@
 🔹 Implemented **technical indicators (RSI, MA, Bollinger Bands)**, **lag features**, and **EDA dashboard**.  
 🔹 Achieved strong directional accuracy and built user-friendly visualizations.  
 
-### 📊 [Stack Overflow Developer Survey Analysis 2024](https://github.com/hassanimtiaz158/stack-overflow-analysis)  
+### 📊 [Stack Overflow Developer Survey Analysis 2024]
 🔹 Analyzed developer trends using **Python, Pandas, and Seaborn**.  
 🔹 Delivered **interactive visualizations** and valuable statistical insights.  
 
@@ -79,11 +76,11 @@
 🔹 Developed a **Tkinter-based desktop app** for bakery income/expense tracking.  
 🔹 Integrated **SQLite database**, clean UI, and financial summary reports.  
 
-### 🗳️ [Blockchain Voting System](https://github.com/hassanimtiaz158/blockchain-voting-system)  
+### 🗳️ [Blockchain Voting System] 
 🔹 Built a secure, transparent, and decentralized voting platform using **Solidity** and **Ethereum**.  
 🔹 Ensured tamper-proof results and trustless participation via smart contracts.  
 
-### 📈 [AI-Powered Sentiment Analysis Dashboard](https://github.com/hassanimtiaz158/sentiment-analysis-dashboard)  
+### 📈 [AI-Powered Sentiment Analysis Dashboard] 
 🔹 Built a **Flask dashboard** for real-time sentiment analysis using **NLTK**.  
 🔹 Integrated with **Twitter API** to analyze live social media opinions.
 
