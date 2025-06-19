@@ -75,7 +75,6 @@
 ###  **Stack Overflow Developer Survey Analysis 2024**  
 🔹 Analyzed developer trends using **Python, Pandas, and Seaborn**.  
 🔹 Delivered **interactive visualizations** and statistical insights.  
-[View Project](https://github.com/hassanimtiaz158/stack-overflow-analysis)  
 
 ###  **Bakery Management System**  
 🔹 Built a **Python-based financial tracker** with **SQL** and **Tkinter GUI**.  
