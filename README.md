@@ -68,7 +68,7 @@
 🔹 Implemented **technical indicators (RSI, MA, Bollinger Bands)**, **lag features**, and **EDA dashboard**.  
 🔹 Achieved strong directional accuracy and built user-friendly visualizations.  
 
-### 📊 [Stack Overflow Developer Survey Analysis 2024]
+### 📊 Stack Overflow Developer Survey Analysis 2024
 🔹 Analyzed developer trends using **Python, Pandas, and Seaborn**.  
 🔹 Delivered **interactive visualizations** and valuable statistical insights.  
 
@@ -76,11 +76,11 @@
 🔹 Developed a **Tkinter-based desktop app** for bakery income/expense tracking.  
 🔹 Integrated **SQLite database**, clean UI, and financial summary reports.  
 
-### 🗳️ [Blockchain Voting System] 
+### 🗳️ Blockchain Voting System 
 🔹 Built a secure, transparent, and decentralized voting platform using **Solidity** and **Ethereum**.  
 🔹 Ensured tamper-proof results and trustless participation via smart contracts.  
 
-### 📈 [AI-Powered Sentiment Analysis Dashboard] 
+### 📈 AI-Powered Sentiment Analysis Dashboard 
 🔹 Built a **Flask dashboard** for real-time sentiment analysis using **NLTK**.  
 🔹 Integrated with **Twitter API** to analyze live social media opinions.
 
