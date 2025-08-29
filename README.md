@@ -28,20 +28,50 @@ I love solving real-world problems with **AI, Machine Learning, and Blockchain**
 
 ## 🛠 Tech Stack  
 
-**Languages**  
-`Python` · `R` · `SQL` · `C++` · `Solidity`  
+<details>
+  <summary>📌 Click to expand full skill set</summary>  
 
-**Libraries/Frameworks**  
-`Pandas` · `NumPy` · `Scikit-learn` · `Flask` · `Streamlit` · `NLTK` · `Matplotlib` · `Seaborn`  
+### 👨‍💻 Languages  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)  
 
-**Blockchain**  
-`Ethereum` · `Solidity` · `Web3.js`  
+### 📚 Libraries & Frameworks  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)  
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)  
+![NLTK](https://img.shields.io/badge/NLTK-154360?style=for-the-badge&logo=python&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)  
+![Seaborn](https://img.shields.io/badge/Seaborn-0099CC?style=for-the-badge&logo=python&logoColor=white)  
 
-**Databases**  
-`SQLite` · `MySQL`  
+### ⛓ Blockchain  
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)  
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)  
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=javascript&logoColor=white)  
 
-**Tools**  
-`Git` · `Docker` · `Jupyter Notebook`  
+### 🗄 Databases  
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+
+### ⚙️ Tools  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  
+
+</details>
+
+---
+
+## 🚀 Skill Levels  
+
+- Python ![███████████░░░░░░](https://progress-bar.dev/85/)  
+- Machine Learning ![█████████░░░░░░░](https://progress-bar.dev/75/)  
+- Blockchain (Solidity, Web3) ![████████░░░░░░░░](https://progress-bar.dev/65/)  
+- Data Visualization ![██████████░░░░░░](https://progress-bar.dev/80/)  
 
 ---
 
@@ -57,34 +87,22 @@ I love solving real-world problems with **AI, Machine Learning, and Blockchain**
 ## 🔥 Featured Projects
 
 ### 🟢 [Cryptocurrency Price Predictor](https://github.com/hassanimtiaz158)
-- Built a **Streamlit app** for real-time crypto price prediction.  
-- Used **XGBoost Regression** with features like RSI, MA, Bollinger Bands, and lagged features.  
-- Includes interactive **EDA dashboard** with strong prediction accuracy.  
+- Streamlit app for **real-time crypto prediction** using XGBoost.  
+- Features technical indicators (RSI, MA, Bollinger Bands) & lagged features.  
 
 ### 🟢 [Stack Overflow Developer Survey Analysis 2024](https://github.com/hassanimtiaz158)
-- Conducted **developer trend analysis** using Python, Pandas, and Seaborn.  
-- Delivered **actionable insights** through data visualization.  
+- Analyzed developer survey data using Pandas & Seaborn.  
+- Interactive visualizations & statistical insights.  
 
 ### 🟢 [Bakery Management System](https://github.com/hassanimtiaz158)
-- Tkinter-based desktop app for **managing income/expenses**.  
-- Integrated **SQLite database** for data storage.  
-- Generates **financial reports** in a user-friendly UI.  
+- Tkinter + SQLite desktop app for **income/expense management**.  
+- Generates financial reports in a user-friendly UI.  
 
 ### 🟢 [Blockchain Voting System](https://github.com/hassanimtiaz158)
-- Developed a **secure decentralized voting app** using Solidity and Ethereum.  
-- Ensures **transparency, immutability, and trustless voting**.  
+- Built a **secure decentralized voting system** with Solidity + Ethereum.  
 
 ### 🟢 [AI-Powered Sentiment Analysis Dashboard](https://github.com/hassanimtiaz158)
-- Built a real-time **sentiment analysis dashboard** with Flask & NLTK.  
-- Integrated with **Twitter API** for live social media trend analysis.  
-
----
-
-## 📂 Other Repositories
-- **[CryptoMarketTrendAnalysis](https://github.com/hassanimtiaz158)** – ML-based prediction of crypto trends  
-- **[gemini-workshop](https://github.com/hassanimtiaz158)** – Jupyter notebook workshop  
-- **[DSA](https://github.com/hassanimtiaz158)** – Data Structures & Algorithms in C++  
-- **[AI](https://github.com/hassanimtiaz158)** – AI experiments & implementations  
+- Flask + NLTK + Twitter API to analyze **live social media sentiment**.  
 
 ---
 
