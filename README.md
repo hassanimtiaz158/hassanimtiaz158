@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Hasan Ali  
+# Hi, I'm Hasan Ali  
 **Data Scientist | ML Engineer | Blockchain Enthusiast | LLM Specialist**
 
 Welcome to my GitHub! I specialize in building **Machine Learning models, Data Science projects, LLM-powered systems, and Blockchain-based applications**, with a focus on **RAG pipelines, multi-agent orchestration, and end-to-end ML workflows**.
