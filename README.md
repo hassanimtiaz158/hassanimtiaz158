@@ -7,9 +7,10 @@ Welcome to my GitHub! I specialize in building **Machine Learning models, Data S
 
 ## 🔥 GitHub Stats & Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hassanimtiaz158&show_icons=true&theme=radical" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassanimtiaz158&layout=compact&theme=radical" height="165">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hassanimtiaz158&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hassanimtiaz158&layout=compact&theme=radical" height="165"/>
 </p>
+
 
 ---
 
